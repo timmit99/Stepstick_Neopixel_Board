@@ -20,4 +20,4 @@ To use, simply configure the `STEP`/`DIR` pin for the socket you plug the board 
 | U1, U2      |     Level Shifter    |      74LVC1G17GV (SOT753)     |     2     |  C6076  |
 | U3          |   Stepstick Header   | 8-pin Male Header Pin, 2.54mm |     2     | C124381 |
 
-## [Interactive bom](http://htmlpreview.github.io/?https://github.com/timmit99/Stepstick_Neopixel_Board/blob/main/iBOM/StepstickPixel.html)
+### [Interactive bom](http://htmlpreview.github.io/?https://github.com/timmit99/Stepstick_Neopixel_Board/blob/main/iBOM/StepstickPixel.html)
