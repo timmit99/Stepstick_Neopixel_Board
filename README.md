@@ -3,6 +3,7 @@ Dual output level shifted Stepstick adaptor for neopixel strips.
 
 ## Overview
 This board converts the logic level `STEP` and `DIR` outputs on a Stepstick header to 5V level for properly driving 2 Neopixel strips. Input 5V from a 2-pin JST-XH header, with 2 outputs on 3-pin JST-XH headers.
+
 To use, simply configure the `STEP`/`DIR` pin for the socket you plug the board into as your neopixel pin. It's that simple!
 
 <img src="Images/Overview.jpg" width="750">
