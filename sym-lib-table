@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Stepstick_Pixel")(type "KiCad")(uri "${KIPRJMOD}/Library/Stepstick_Pixel.kicad_sym")(options "")(descr ""))
+)
